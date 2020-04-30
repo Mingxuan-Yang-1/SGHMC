@@ -40,4 +40,6 @@ plt.scatter(theta_sghmc_2, r_sghmc_2, color = 'green', marker = '*', label = 'No
 plt.scatter(theta_hmc_2, r_hmc_2, color = 'blue', marker = 'x', label = 'Hamiltonian dynamics')
 plt.legend(loc='center left', bbox_to_anchor=(1, 0.5))
 plt.axis([-8, 8, -8, 8,])
+plt.xlabel('θ')
+plt.ylabel('r')
 plt.show()
