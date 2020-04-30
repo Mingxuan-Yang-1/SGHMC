@@ -48,4 +48,4 @@ pip install -i https://test.pypi.org/simple/ sghmc-pkg-663-2.0.0==2.0.0
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](SGHMC/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
