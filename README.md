@@ -1,6 +1,6 @@
 # SGHMC
 
-*Project Date: 2020-04-30*
+*Project Date: 2020-04-29*
 
 This is the final project of STA 663: Statistical Computation and Programming in 2020 Spring Semester at Duke University, finished by Jiawei Chen and Mingxuan Yang. 
 
